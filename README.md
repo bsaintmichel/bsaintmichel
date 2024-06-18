@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brice</h1>
-<h3 align="center">Data Scientist converted from STEM scientist</h3>
+<h3 align="center">Data Scientist converted from STEM</h3>
 
 - 🔭 I’m currently working on [toy-models of Reinforcement Learning](https://github.com/Rheyles/from-a-to-b-with-rl)
 
