@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brice</h1>
 <h3 align="center">Data Scientist converted from STEM</h3>
 
-- 🔭 I’m currently working on [toy-models of Reinforcement Learning](https://github.com/Rheyles/from-a-to-b-with-rl)
+- 🔬 I’m currently working on [toy-models of Reinforcement Learning](https://github.com/Rheyles/from-a-to-b-with-rl)
 
-- 🌱 I’m currently learning **Pytorch and Tensorflow**
+- 🎓 I’m currently learning **Pytorch and Tensorflow**
 
-- 👨‍💻 All of my projects are available at [bsaintmichel.github.io/software](bsaintmichel.github.io/software)
+- 👨‍💻 All of my projects are showcased on my _portfolio_ below : [bsaintmichel.github.io/software](bsaintmichel.github.io/software) ... otherwise they you can browse them below ⬇️
 
 - 💬 Ask me about **NumPy and Matplotlib**
 
