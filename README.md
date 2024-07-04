@@ -5,7 +5,7 @@
 
 - 🎓 I’m currently learning **Pytorch and Tensorflow**
 
-- 👨‍💻 All of my projects are showcased on my _portfolio_ below : [bsaintmichel.github.io/software](bsaintmichel.github.io/portfolio) ... otherwise they you can browse them below ⬇️
+- 👨‍💻 All of my projects are showcased on my _portfolio_ below : [bsaintmichel.github.io/portfolio](bsaintmichel.github.io/portfolio) ... otherwise they you can browse them below ⬇️
 
 - 💬 Ask me about **NumPy and Matplotlib**
 
