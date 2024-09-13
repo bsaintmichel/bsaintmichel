@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brice</h1>
 <h3 align="center">Project Scientist / Researcher with a hint of Data Science</h3>
 
-- 🔬 I’m currently working on [toy-models of Reinforcement Learning](https://github.com/Rheyles/from-a-to-b-with-rl)
+- 🔬 I’m currently working on [ultrasound echography processing routines using Pytorch](https://github.com/bsaintmichel/USV)
 
 - 🎓 I’m currently learning **Pytorch and Tensorflow**
 
